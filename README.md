@@ -1,13 +1,15 @@
-# Sumneet Khanna - Data & Analytics Portfolio
+# Sumneet Khanna | Analytics Portfolio
 
-Welcome to my analytics portfolio! I'm **Sumneet Khanna**, a data analyst with a passion for solving real-world problems using data science, visualization, and business acumen.
+Welcome to my portfolio! This site highlights my work in data analytics, automation, dashboarding, and machine learning.
 
-🚀 **Explore my work:**
-- 📊 Tableau Dashboards
-- 📁 Data Cleaning & Analysis Projects
-- 📌 Machine Learning Use Cases
-- 📚 SQL, Python, and Excel Workflows
+🌐 Visit: [sumneetkhanna.github.io](https://sumneetkhanna.github.io)
 
-🔗 [Visit My Website](https://sumneetkhanna.github.io)
+### 🔍 Featured Projects
 
-📫 Contact me at: [LinkedIn](https://www.linkedin.com/in/sumneetkhanna) | sumneet.khanna@email.com
+- NLP-powered complaint theme detection
+- Tableau dashboards for risk analytics
+- Complaint resolution time prediction model
+
+📄 [Download Resume](https://sumneetkhanna.github.io/assets/resume/Sumneet_Khanna_Resume.pdf)
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sumneetkhanna/)
